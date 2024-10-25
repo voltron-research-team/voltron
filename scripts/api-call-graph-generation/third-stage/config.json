@@ -1,0 +1,23 @@
+{
+  "benignware_folder": "benignware/",
+  "malware_folder": "malware/",
+  
+  "apks_input_dir": "apks/",
+  "apk_info_output_dir": "apk_info/",
+  "df_normalized_csv_dir": "df_normalized_csv/",
+  "custom_methods_and_called_apis_output_dir": "custom_methods_and_called_apis/",
+  "custom_methods_output_dir": "custom_methods/",
+  "android_apis_output_dir": "android_apis/",
+  "critical_api_full_list": "critical_api_calls.txt",
+  "android_apis_dir": "android_apis/",
+  
+
+
+  "df_normalized_dir": "df_normalized_csv",
+  "custom_method_dir": "custom_methods",
+  "android_api_dir": "android_apis",
+  "selected_apis_used_in_apks": "selected_apis_list.txt",
+  "selected_apis_dictionary_file_path": "selected_apis.txt",
+  "api_call_graphs_json_dir": "api_call_graphs_json",
+  "api_call_graph_type": "Small"
+}

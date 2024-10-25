@@ -1,0 +1,7 @@
+{
+  "apk_info_output_dir": "apk_info/",
+  "df_normalized_csv_dir": "df_normalized_csv/",
+  "custom_methods_and_called_apis_output_dir": "custom_methods_and_called_apis/",
+  "custom_methods_output_dir": "custom_methods/",
+  "android_apis_output_dir": "android_apis/"
+}
